@@ -1,0 +1,23 @@
+.body {
+    background-image:linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url("https://rhiannongriffithsacupuncture.files.wordpress.com/2012/12/yin-yang-fire-ice.jpg");
+
+
+    background-size: cover;
+}
+.section {
+    height: 100vh;
+    width: 200vh;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    }
+
+.bod {
+        background-image:linear-gradient(rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.75)), url("https://www.nps.gov/lacl/learn/nature/images/LACL_2013_BullMooseTelaquana_JMills_1.jpg");
+
+
+        background-size: cover;
+     }
